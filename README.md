@@ -14,6 +14,7 @@ A modern, feature-rich Job Portal web application built with the **MERN stack** 
 - 🧑‍💻 Recruiter Dashboard to post/manage jobs
 - ⚙️ Admin and User Panels
 - 🌐 Fully Responsive UI (Tailwind CSS + Radix UI + Framer Motion)
+- 🤖 AI Chatbot for real-time user guidance
 
 ---
 
