@@ -1,20 +1,21 @@
 # 🧠 JobHunt - Full Stack Job Portal
 
-A modern, feature-rich Job Portal web application built with the **MERN stack** (MongoDB, Express, React, Node.js), enhanced with **Vite**, **Tailwind CSS**, **Cloudinary** for media management, and **JWT-based authentication**.
+A modern, feature-rich Job Portal web application built with the **MERN stack** (MongoDB, Express, React, Node.js), enhanced with **Vite**, **Tailwind CSS**, **Cloudinary** for media management, and **JWT-based authentication**. Includes seamless **Google Authentication** for faster onboarding.
 
 ---
 
 ## 🚀 Features
 
 - 👨‍💼 Role-based Authentication (Job Seeker & Recruiter)
+- 🔐 Google OAuth Login & Signup (using `@react-oauth/google`)
 - 📂 Resume Upload (via Cloudinary)
-- 🔒 JWT Auth & Secure APIs
-- 🔍 Job Search & Filtering
-- 📝 Apply to Jobs
-- 🧑‍💻 Recruiter Dashboard to post/manage jobs
+- 🔒 JWT Authentication & Secure REST APIs
+- 🔍 Job Search with Advanced Filtering
+- 📝 Apply to Jobs with One Click
+- 🧑‍💻 Recruiter Dashboard to Post & Manage Jobs
 - ⚙️ Admin and User Panels
 - 🌐 Fully Responsive UI (Tailwind CSS + Radix UI + Framer Motion)
-- 🤖 AI Chatbot for real-time user guidance
+- 🤖 AI Chatbot for Real-time User Guidance
 
 ---
 
@@ -30,3 +31,4 @@ jobhunt/
 │   └── main.jsx        # App entry point
 │
 └── README.md           # You are here
+```
